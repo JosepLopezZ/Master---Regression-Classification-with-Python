@@ -1,0 +1,5 @@
+Al exportar el Notebook de Jupyter a formato .html para así que lo puedas ver sin tener que ejecutar, una de las imágenes desaparece.
+En el mismo notebook previamente a la exportación, aparece sin problemas. He estado mirando por internet y no he podido encontrar el motivo
+del porque no aparece en el formato .html ya que la manera en que llamo a los archivos es la correcta y no hay problemas previos.
+
+Estan en la carpeta de imágenes. Principalmente era la distribución de los datos, la explicación de la simetría de los mismos a nivel gráfico.
